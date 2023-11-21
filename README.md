@@ -1,6 +1,23 @@
 # Sales-Insights-Data-Analysis-Project
 Sales Insights Data Analysis Project
 
+In this Project, I have Integrated SQL with Power BI to create an interactive Dashboard to the Sales Director of the company to help him understand the Sales number which is helping him to generate his revenue.
+
+Problem Statement: Bhavin Patel Sales Director of Atliq Hardware he’s facing Issues for tracking sales in a dynamic growing market his team is giving him Excel file which are 69 in total from that he cant understand the sales and revenue of the organization. He wants simple insights which means he wants a simple dashboard that he can go and look at the real data. Which he can look daily on his system
+
+Steps Performed:
+1️⃣ Data Discovery
+2️⃣ Data Wrangling
+3️⃣ Data Cleaning
+4️⃣ Data Analysis 
+
+Tools Used: 
+1️⃣ AIMS Grid: Project Planning tool
+2️⃣ MYSQL
+3️⃣ Microsoft Power BI
+
+Solution: Dashboards covering sales order insights with the latest data available. The sales team will be able to make a better decision and prove 10 % cost savings of total spend. Sales Analyst stop data gathering manually to save 20% of their business time and reinvest its value-added activity.
+
 SQL queries for data analysis
 
 1. Show all customer records
