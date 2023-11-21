@@ -1,5 +1,8 @@
 # Sales-Insights-Data-Analysis-Project
 Sales Insights Data Analysis Project
+
+SQL queries for data analysis
+
 1. Show all customer records
 
     `SELECT * FROM customers;`
